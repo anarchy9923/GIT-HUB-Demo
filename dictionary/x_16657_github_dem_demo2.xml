@@ -2,5 +2,6 @@
 <database>
     <element label="Demo2" max_length="40" name="x_16657_github_dem_demo2" type="collection">
         <element label="Name" max_length="40" name="name" type="string"/>
+        <element label="number1" max_length="10" name="number1" type="integer"/>
     </element>
 </database>
